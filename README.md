@@ -5,7 +5,7 @@
 
 #### Większość modyfikacji została wykonana przez społeczność Discord Bots Poland - https://discord.gg/K53AEGU72J
 
-Ostatnia aktualizacja - <r:1667942634:R>
+Ostatnia aktualizacja - 08.11.2022
 
 # Mods-DBM
 
@@ -14,3 +14,5 @@ Ostatnia aktualizacja - <r:1667942634:R>
 ### Modifications are not created by me, but only shared
 
 #### Most of the modifications was made by the Discord Bots Poland community - https://discord.gg/K53AEGU72J
+
+Last update - 08.11.2022
