@@ -5,6 +5,8 @@
 
 #### Większość modyfikacji została wykonana przez społeczność Discord Bots Poland - https://discord.gg/K53AEGU72J
 
+Ostatnia aktualizacja - <r:1667942634:R>
+
 # Mods-DBM
 
 ## Mods Discord Bot Maker
