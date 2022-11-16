@@ -17,4 +17,6 @@ Ostatnia aktualizacja - 08.11.2022
 
 #### Most of the modifications was made by the Discord Bots Poland community - https://discord.gg/K53AEGU72J
 
+### To load the mods extract the DBM-Events.rar file. Open your bot files, go to the `events` folder and put all the files from the archive there. Repeat for the second archive, changing the location from the `events` folder to `actions`. <br>
+
 Last update - 08.11.2022
